@@ -109,4 +109,12 @@ footer{
     .heading{
         font-size: 1.5rem;
     }
+    .drum{
+        padding: 5px;
+        width: 80px;
+        height: 80px;
+    }
+    footer{
+        padding: 20px 10px;
+    }
 }
